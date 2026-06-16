@@ -1,16 +1,22 @@
-# counter1
+# Counter App
 
 A new Flutter project.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0488e77d-4e80-434d-bfcd-b75fb8a400e3" width="320" alt="Home Screen" />
+</p>
 
-## Getting Started
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6c7a5a0b-a858-4aa6-8089-6f0db88783c9" width="320" alt="Counter Screen" />
+</p>
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0c92c435-0aeb-46a3-b3b3-76b91d474669" width="320" alt="History Screen" />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3cab9d8e-680a-4b87-ac2f-e648a3461439" width="320" alt="Settings Screen" />
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6bd37dd1-b644-4fc8-8adc-66b4694b0fb9" width="320" alt="Statistics Screen" />
+</p>
